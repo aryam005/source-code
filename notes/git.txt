@@ -10,3 +10,6 @@ git config --global user.email ""
 .gitignore
  - touch .gitignore
  - open .gitignore - add files types to ignore
+ 
+what has changed?
+ - git diff <file_name>
