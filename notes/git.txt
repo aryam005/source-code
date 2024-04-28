@@ -1,0 +1,12 @@
+install git
+ - apt install git
+ 
+initialize existing repository
+ - git init
+ 
+git config --global user.name "aryam001"
+git config --global user.email ""
+
+.gitignore
+ - touch .gitignore
+ - open .gitignore - add files types to ignore
